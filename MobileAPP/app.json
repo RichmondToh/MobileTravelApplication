@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "MyFirstProject",
+    "slug": "MyFirstProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "This my Comp3130 mobile applications Assignment. The purpose of this project was to develop a travel application that can display data to the user.\n\n\nFurthermore, while this application does have a working register page, which can be used to login into the application the credentials provided below is a preconfigured account with a premade Wishlist and personal profile picture attached. \n\nemail: p@gmail.com\npassword: p12345\n\n(45984026) StudentID \nRichmond Toh"
+  }
+}
