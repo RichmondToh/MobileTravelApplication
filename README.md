@@ -14,7 +14,7 @@ Expo Link which contain QR code to run on Android
 https://expo.io/@richmondtoh/MyFirstProject
 
 
-Google Docs link which lists all the screen the Mobile Application has
+Google Docs link which lists all the screens the Mobile Application has
 
 https://docs.google.com/document/d/1e2-qoaAYfzwIZ7DRi2-gWfhPex2zdLiCODWSrVfS6-A/edit?usp=sharing
 
